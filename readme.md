@@ -45,9 +45,11 @@ Upload a PDF, process it, and start chatting with your document.
 
 ---
 
-##Screenshot
+## Screenshot
 
 <img width="1557" height="929" alt="Screenshot 2026-06-12 020647" src="https://github.com/user-attachments/assets/ad39009a-2bf5-4ed0-bc75-00bf8b609096" />
 
+---
 
+## Motivation 
 Built as a learning project to explore Retrieval-Augmented Generation (RAG) and document-based question answering.
